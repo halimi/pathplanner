@@ -21,6 +21,6 @@ $ python app.py filename t T --start x y
 Example:
 
 ```bash
-$ python app.py 20.txt 5 1000 --start 2 2
-Most valuable path score and path: 10, [(2, 2), (1, 2), (0, 2), (0, 3), (0, 4), (0, 5)]
+$ python app.py grid.txt 5 1000 --start 2 2
+Most valuable path score and path: 44, [(2, 2), (3, 3), (4, 4), (3, 4), (4, 3), (4, 2)]
 ```
